@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/joshmadakor1/LABURL)
+- [Active Directory Home Lab](https://github.com/brakower/ActiveDirectoryLab/tree/main)
 - [Hello World!](https://github.com/joshmadakor1/LABURL)
 
 
