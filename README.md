@@ -8,7 +8,11 @@
 
 <h2>📚 Relevant Coursework</h2>
 
-- Data Structures and Algorithms
+- Data Structures and Analysis
+- System Programming Fundamentals
+- Structure/Organize Own Code
+- Discrete Structures
+- Data Models and Inference
 
 <h2>📺 Popular YouTube Videos</h2>
 
