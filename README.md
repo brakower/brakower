@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- [March Madness Predictor]([https://github.com/brakower/ActiveDirectoryLab/tree/main](https://github.com/brakower/MarchMadness_2024))
+- [March Madness Predictor]([https://github.com/brakower/ActiveDirectoryLab/tree/main](https://github.com/brakower/MarchMadness_2024)
 - [Active Directory Home Lab](https://github.com/brakower/ActiveDirectoryLab/tree/main)
 
 <h2>📚 Relevant Coursework</h2>
