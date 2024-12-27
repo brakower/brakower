@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- [Personal Portfolio Website](https://github.com/brakower/Personal-Portfolio-Website)
+- [React Full-Stack Journal Application](https://github.com/brakower/COMP426FinalProject)
+- [Redux (State Managed) Journal Application](https://github.com/brakower/Journal-Application)
+- 
 - [March Madness Predictor](https://github.com/brakower/MarchMadness_2024.git)
 - [Active Directory Home Lab](https://github.com/brakower/ActiveDirectoryLab/tree/main)
 
