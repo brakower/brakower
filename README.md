@@ -7,6 +7,8 @@
 
 <h2>📚 Relevant Coursework</h2>
 
+- Modern Web Programming
+- Foundations of Software Engineering
 - Data Structures and Analysis
 - System Programming Fundamentals
 - Structure/Organize Own Code
