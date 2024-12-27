@@ -1,8 +1,8 @@
 <h1>Hi, I'm Benny! <br/><a href="https://github.com/brakower">Programmer</a>, <a href="https://www.linkedin.com/in/benny-rakower/">Full-Stack Web Developer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
 <h3><a href="https://bennyrakower.bennyrakower.online">Click Here for My Personal Portfolio Website</a></h3>
+
+<h2>👨‍💻 Software Development Projects:</h2>
 
 - [Personal Portfolio Website](https://github.com/brakower/Personal-Portfolio-Website)
 - [React Full-Stack Journal Application](https://github.com/brakower/COMP426FinalProject)
