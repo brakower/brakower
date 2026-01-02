@@ -14,7 +14,9 @@
 
 <h2>📚 Relevant Coursework</h2>
 
+- Software Engineering Lab
 - Modern Web Programming
+- Programming Methods, Models, Languages, and Analysis
 - Foundations of Software Engineering
 - Data Structures and Analysis
 - System Programming Fundamentals
