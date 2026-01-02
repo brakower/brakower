@@ -4,6 +4,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- [AI Code Grader](https://github.com/brakower/Team-H)
+- [Lunch Order Application](https://github.com/brakower/Lunch-Order-App)
 - [Personal Portfolio Website](https://github.com/brakower/Personal-Portfolio-Website)
 - [React Full-Stack Journal Application](https://github.com/brakower/COMP426FinalProject)
 - [Redux (State Managed) Journal Application](https://github.com/brakower/Journal-Application)
