@@ -4,6 +4,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- [Super Bowl Boxes Application](https://github.com/brakower/Super-Bowl-Boxes)
 - [AI Code Grader](https://github.com/brakower/Team-H)
 - [Lunch Order Application](https://github.com/brakower/Lunch-Order-App)
 - [Personal Portfolio Website](https://github.com/brakower/Personal-Portfolio-Website)
